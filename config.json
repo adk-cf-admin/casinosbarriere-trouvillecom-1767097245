@@ -1,0 +1,201 @@
+{
+    "fr-FR": {
+        "styles": {
+            "bg": "#1B1B1A",
+            "lang-select-color": "#222829",
+            "bg-light": "#1B1B1A",
+            "welcome-bonus-bg": "#1B1B1A",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#111111",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#4f4f4f",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#B28B27",
+            "yellow": "#b45227",
+            "yellow-button": "#B28B27",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#1B1B1A",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#535355",
+            "pay-back": "#deeadf",
+            "providers-back": "#1B1B1A",
+            "faq-label": "#1B1B1A",
+            "bg-footer": "#1B1B1A",
+            "copyright": "#e7e7d5",
+            "starColor": "#b45227",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Casino Barrière Trouville",
+            "title": "Casino Barrière Trouville : machines à sous, roulette, blackjack, restaurant, animations",
+            "description": "Tout savoir sur le Casino Barrière Trouville : jeux et mises, règles d’accès, bars et restaurant, spectacles, offres spéciales et expérience soirée complète.",
+            "canonical": "casinosbarriere-trouville.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1314",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "casinosbarriere-trouville.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1315",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1316"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1317",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino Barrière Trouville Logo"
+        },
+        "nav": {
+            "signUp": "S’inscrire",
+            "playNow": " Jouer maintenant"
+        },
+        "hero": {
+            "title": "Casino Barrière Trouville — jeux, restaurants, spectacles et soirées",
+            "textDesktop": "Offre de bienvenue exclusive de",
+            "textMobile": "Offre de bienvenue exclusive de",
+            "playGame": "Lancer la partie",
+            "claimBonus": "Réclamer le bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1318",
+            "imageSizeModifier": 0,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1319",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Activer le bonus",
+            "title": "Top casinos",
+            "allCasino": "Tous les casinos",
+            "welcomeBonusText": "Bonus de bienvenue"
+        },
+        "bonusDetails": {
+            "title": "Détails du bonus",
+            "getBonusButtonText": " Obtenir le bonus",
+            "maximumAmountText": "Montant maximum",
+            "wagerText": "Wager",
+            "bonusCodeText": "Code promo",
+            "casino": "Casino",
+            "bonuses": "Bonus",
+            "rate": "Note",
+            "freeSpins": "Tours gratuits",
+            "moreInfo": " Plus d'infos",
+            "get": "Obtenir",
+            "refresh": "Actualiser"
+        },
+        "advantages": {
+            "title": "Avantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Large choix de machines à sous.",
+                "Tables classiques : blackjack et roulette.",
+                "Jeux électroniques : roulette et blackjack.",
+                "Ultimate Poker et « La Boule » variés.",
+                "Ambiance balnéaire : lumières, élégance, énergie.",
+                "Restaurant et bars pour souffler.",
+                "Animations et spectacles pour la soirée."
+            ],
+            "advantagesAfterText": "Le Casino Barrière Trouville séduit par l’équilibre entre patrimoine et modernité. On y vit une expérience complète : jouer, dîner, profiter d’animations, puis prolonger la sortie dans une ambiance plus festive. Le confort, la qualité d’accueil et la sensation d’évasion font partie des grands atouts.\n",
+            "knowMore": "En savoir plus",
+            "appTitle": "Casino Barrière Trouville App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1320",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Casino Barrière Trouville App",
+            "mobileGooglePlayImageTitle": "Casino Barrière Trouville App",
+            "mobileIosImageTitle": "Casino Barrière Trouville App"
+        },
+        "games": {
+            "playNowText": "Jouer maintenant",
+            "title": "Jeux populaires",
+            "allGames": "Tous les jeux"
+        },
+        "about": {
+            "history": {
+                "title": "À propos Casino Barrière Trouville",
+                "description1": "Le Casino Barrière Trouville se démarque par la variété des mécaniques de gains : jackpots progressifs, tournois dotés et animations à lots. Ajoutez une expérience “tout-en-un” (jeux, restauration, spectacles), et vous obtenez une sortie complète, flexible et très vivante.\n",
+                "items": [
+                    "Jackpot : jusqu’à 165 000€",
+                    "Machines : gains jusqu’à x10 000",
+                    "Tournois : prix jusqu’à 5 000€"
+                ],
+                "description2": "Le Casino Barrière Trouville est un lieu où l’esprit casino s’accorde avec une ambiance balnéaire légère. On y prolonge volontiers une promenade en soirée dans des salles lumineuses et animées. L’espace de jeux convient autant aux amateurs de machines qu’aux passionnés de tables avec croupiers.\n",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1321",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": " Chacun peut choisir un rythme calme ou une session plus intense selon l’envie du moment. Les espaces bar invitent à faire une pause et à savourer l’instant. La restauration transforme la visite en véritable sortie, pas seulement en passage de jeu. Les animations renforcent l’énergie du lieu et donnent une touche festive à la soirée. Les règles d’accès sont claires, ce qui rassure et fluidifie l’entrée. Le personnel privilégie un accueil soigné qui aide aussi les nouveaux joueurs. Au final, c’est une expérience complète où jeux, convivialité et divertissement se répondent."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Casino Barrière Trouville : ambiance, jeux et soirées",
+                "description": "<p>\nLe Casino Barrière Trouville se vit comme un véritable “théâtre du divertissement”, où l’allure historique s’accorde avec une mise en scène moderne. À l’intérieur, on ressent un mélange d’élégance et de décontraction, idéal pour une sortie balnéaire réussie. Les lumières, la musique et la circulation entre les espaces donnent une impression de dynamisme sans excès. On vient autant pour jouer que pour l’atmosphère, ce qui incite souvent à prolonger la soirée. C’est un lieu adapté aux curieux comme aux habitués, grâce à un cadre rassurant et vivant.\n\n<\/p>\n<br>\n\n\n<p>\nCôté horaires, l’établissement est apprécié pour son amplitude : il ouvre dès la matinée et se transforme progressivement en lieu de soirée. Les machines à sous sont accessibles tôt, parfait pour jouer à son rythme, sans pression. Le scénario “casino classique” prend davantage d’ampleur en début de nuit, quand l’ambiance devient plus intense. La fréquentation et l’énergie montent, surtout autour des tables. Cette organisation permet de choisir un moment calme ou une immersion nocturne plus festive.\n\n<\/p>\n<br>\n<p>\nLes bars et la restauration structurent l’expérience, car ils offrent des pauses naturelles entre deux sessions. On peut alterner jeu et détente, commander un verre, puis revenir vers les machines ou basculer vers les tables. Le format restaurant transforme la visite en sortie complète, où l’on vient aussi pour partager un moment convivial. Aux beaux jours, la possibilité de profiter de l’extérieur renforce l’esprit “vacances”. Au final, le casino devient un espace de vie, pas seulement une salle de jeux.\n\n<\/p>\n<br>\n<p>\nConcernant l’hébergement, il n’y a pas de chambres directement “dans” le casino, mais l’offre autour est variée et facile à organiser. Beaucoup combinent la visite avec un week‑end, en ajoutant promenades, restaurants et points d’intérêt voisins. Ceux qui aiment les formules simples optent souvent pour “hôtel + dîner + casino + animation”. Cette logique rend la sortie plus fluide et transforme une soirée en mini‑séjour.\n\n<\/p>\n<br>\n<p>\nEnfin, les événements et divertissements comptent parmi les signatures du lieu, avec une programmation pensée pour rythmer l’année. Entre animations, soirées thématiques et formats plus spectaculaires, la visite devient plus mémorable. On peut venir uniquement pour jouer, ou choisir une formule “dîner + show + casino” selon l’envie. À cela s’ajoutent des offres promotionnelles et dispositifs d’avantages qui valorisent la régularité. Ainsi, le Casino Barrière Trouville propose une expérience globale où le jeu s’intègre à un art de vivre.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nService et paiements au Casino Barrière Trouville : staff, moyens de paiement, gains\n<\/h3>\n\n<p>\nLe personnel du Casino Barrière Trouville est souvent perçu comme un atout, car l’accueil et la fluidité comptent autant que l’offre de jeux. À l’entrée comme dans les salles, les équipes orientent, rappellent les règles d’accès et répondent aux questions pratiques. Pour les débutants, la qualité du service se mesure à la clarté des explications et au respect du rythme de chacun. La langue principale reste le français, et il est généralement possible d’être aidé en anglais, surtout dans les zones d’accueil et de service. L’objectif est simple : rendre la visite confortable et éviter toute friction inutile.\n\n<\/p>\n<br>\n\n\n<p>\nLa monnaie de référence est l’euro, et les échanges (crédits, jetons, tickets) suivent la logique classique des caisses et terminaux. Dans la plupart des situations, les cartes bancaires et les espèces sont utilisées, ce qui laisse une vraie liberté de gestion. Les réseaux de paiement courants sont en général acceptés, et le sans‑contact facilite les règlements dans les espaces bar\/restauration. Certaines opérations peuvent toutefois impliquer des plafonds ou des contrôles complémentaires, ce qui fait partie des standards de sécurité financière. Cela protège le client autant que l’établissement.\n\n<\/p>\n<br>\n<p>\nPour le cash, la présence d’un distributeur sur place ou à proximité peut dépanner, mais il faut anticiper d’éventuels frais bancaires. Le change de devises est souvent plus intéressant lorsqu’il est réalisé en amont via des solutions bancaires ou des bureaux dédiés, selon les conditions du moment. Pour un séjour, l’idéal est de prévoir un petit montant en espèces pour les dépenses rapides et d’utiliser la carte pour le reste. Cette organisation réduit la pression et favorise un jeu plus maîtrisé.\n\n<\/p>\n<br>\n<p>\nLe versement des gains dépend du jeu, du montant et des procédures de contrôle. Les petits gains sont généralement réglés de façon simple, tandis que les montants plus élevés peuvent nécessiter vérification d’identité et traçabilité. Selon les cas, le paiement peut se faire en espèces dans certaines limites, par chèque ou par virement bancaire, décision prise au guichet. Garder un document d’identité à portée de main est essentiel, non seulement pour l’accès, mais aussi pour les opérations financières.\n\n<\/p>\n<br>\n<p>\nSur la fiscalité, la plupart des joueurs occasionnels ne rencontrent pas une retenue “au comptoir”, mais les règles peuvent varier selon le statut et la nature des gains. Dans des situations particulières (activité assimilée à professionnelle, montants et fréquence), l’interprétation peut changer. Le bon réflexe est de conserver les justificatifs et, en cas de somme importante, de demander une clarification auprès de l’établissement et d’un conseiller fiscal. Ce texte n’est pas un avis juridique, mais il résume la logique : transparence, documents et procédures facilitent un paiement serein.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nAccès au Casino Barrière Trouville : dress‑code, règles et itinéraire\n<\/h3>\n\n<p>\nLa visite commence par un contrôle à l’entrée, donc il vaut mieux préparer sa pièce d’identité à l’avance. L’accès est généralement réservé aux personnes majeures, avec vérification stricte de l’âge. La tenue attendue correspond à l’esprit du lieu : propreté et sobriété comptent plus qu’un look très habillé. Les tenues de sport ou de plage sont souvent jugées inadaptées, surtout en soirée. À l’intérieur, les règles de comportement garantissent le confort de tous : respect, calme et bonne distance avec les autres joueurs. La politique liée à l’alcool est également importante : en cas d’ivresse manifeste, l’accès peut être refusé. La photo et la vidéo dans les zones de jeux sont le plus souvent encadrées pour protéger la confidentialité. Les sacs peuvent être contrôlés, ce qui relève des standards de sécurité. Pour une expérience agréable, il est conseillé de fixer un budget et un temps de jeu avant d’entrer. Arriver un peu avant l’affluence du soir aide à prendre ses repères tranquillement. L’accès se fait facilement à pied depuis les zones centrales, en taxi, et la gestion du stationnement mérite d’être anticipée les week‑ends.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nDress‑code\n\n\n<\/h4>\n\n <ul>\n            <li>• \nTenue correcte, style casual soigné.\n\n<\/li>\n            <li>• \nÉviter survêtements, tenues de plage, looks trop “détente”.\n\n<\/li>\n            <li>• \nEn soirée, le smart casual est idéal (chemise\/polo, robe, veste).\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nConditions d’accès\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAccès 18+, contrôle d’âge systématique.\n\n<\/li>\n            <li>• \nPièce d’identité valide requise (selon les règles sur place).\n\n<\/li>\n            <li>• \nContrôle de sacs possible pour la sécurité.\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nInterdictions et limites\n\n\n<\/h4>\n\n <ul>\n            <li>• \nPhoto\/vidéo souvent limitées dans les salles de jeux.\n\n<\/li>\n            <li>• \nComportements agressifs ou perturbateurs interdits.\n\n<\/li>\n            <li>• \nRefus d’entrée possible en cas d’ivresse manifeste.\n\n<\/li>\n            <li>• \nToute fraude entraîne exclusion et suites adaptées.\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStationnement & accès\n\n\n<\/h4>\n\n <ul>\n            <li>• \nTaxi recommandé pour les retours tardifs.\n\n<\/li>\n            <li>• \nÀ pied et en transport, accès pratique en journée.\n\n<\/li>\n            <li>• \nParkings proches parfois payants et vite complets.\n\n<\/li>\n            <li>• \nArriver tôt le week‑end simplifie l’organisation.\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLe Carré VIP au Casino Barrière Trouville : statuts, avantages et bonus\n<\/h3>\n\n<p>\nLe programme Le Carré VIP est pensé pour maximiser chaque visite : entrée plus fluide, avantages progressifs et expérience plus personnalisée. Le principe est simple : vous vous inscrivez, votre activité est prise en compte et vous accédez à des récompenses utilisables lors de vos prochaines sorties. L’intérêt, c’est que l’expérience ne se limite pas au jeu : bar, restaurant et animations peuvent aussi entrer dans la logique d’avantages. Pour les nouveaux, c’est un démarrage plus “guidé” avec des bénéfices concrets ; pour les habitués, c’est une montée en gamme vers des privilèges plus exclusifs. La dimension club renforce le confort : on organise mieux sa soirée, on profite d’offres ciblées et l’on gagne en simplicité.\n\n<\/p>\n<br>\n\n\n<p>\nL’inscription est généralement rapide et repose sur l’identification du client, standard dans les établissements de jeux. Ensuite, vous cumulez des points\/du statut via vos sessions de jeu et certains achats, puis vous transformez ces avantages en crédits, offres événementielles ou attentions. Les statuts structurent l’évolution : plus le niveau monte, plus les services “premium” apparaissent, notamment les invitations, la priorité et des offres dédiées. \n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nConditions d’inscription\n\n\n<\/h4>\n\n <ul>\n            <li>• \nÂge 18+ et pièce d’identité valide.\n\n<\/li>\n            <li>• \nFormulaire (coordonnées pour recevoir les offres).\n\n<\/li>\n            <li>• \nCarte\/profil (physique ou digital selon disponibilité).\n\n<\/li>\n            <li>• \nAcceptation des règles du programme et des traitements associés.\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStatuts & obtention\n<\/h4>\n\n <ul>\n            <li>• \nBlanc — délivré à l’inscription, avantages de base.\n\n<\/li>\n            <li>• \nArgent — activité régulière (ex. 1 000–2 500 points sur une période*).\n\n<\/li>\n            <li>• \nOr — fréquence plus élevée (ex. 2 500–7 500 points*).\n\n<\/li>\n            <li>• \nNoir — VIP, sur invitation ou très forte activité (ex. 7 500+ points).\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonus & privilèges\n<\/h4>\n\n <ul>\n            <li>• \nWelcome bonus : 10–20€ de crédits jeu* — démarrage valorisé.\n\n<\/li>\n            <li>• \nAnniversaire : 10–30€ ou cadeau* — selon statut et activité.\n\n<\/li>\n            <li>• \nOffres privées : +10–50€ de crédits promo* — offres ciblées.\n\n<\/li>\n            <li>• \nInvitations shows\/événements : billets ou -10–30%* — accès privilégié.\n\n<\/li>\n\t    <li>• \nServices : entrée prioritaire \/ assistance* — gain de temps en affluence.\n\n<\/li>\n\t    <li>• \nRestauration : -10% ou bon 10–25€* — dîner plus avantageux.\n\n<\/li>\n\t    <li>• \n\nVIP : attentions, soirées privées, espaces dédiés* — renforcé aux hauts statuts.\n\n<\/li>\n        <\/ul><br>\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Fournisseurs de logiciels"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Divertissement et jeux au Casino Barrière Trouville",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonus et offres du Casino Barrière Trouville : jackpots, promos et saisons\n<\/h3>\n\n<p>\nEn dehors du programme de fidélité, il existe généralement un ensemble de promotions qui dynamisent l’expérience et peuvent améliorer le “rapport plaisir”. Le format le plus visible reste le jackpot progressif sur certaines machines, dont la cagnotte augmente avec le jeu des clients. Viennent ensuite les opérations ponctuelles : heures chanceuses, crédits additionnels, animations sur des créneaux précis ou semaines thématiques. Enfin, on retrouve des formules “soirée complète” qui combinent jeu, restauration et parfois spectacle pour une sortie plus simple à organiser.\n\n<\/p>\n<br>\n\n\n<ul>\n            <li>• \nJackpots progressifs (machines) : jusqu’à 165 000€; cagnotte partagée qui grandit et peut tomber aléatoirement.\n\n\n\n\n<\/li>\n            <li>• \nMini‑jackpots quotidiens\/hebdo : 500–5 000€; gains plus fréquents sur des cycles plus courts.\n\n<\/li>\n            <li>• \nTournois machines : dotation 1 000–10 000€; classement sur une période, prix aux meilleurs scores.\n\n<\/li>\n            <li>• \nHappy Hours : +5–20€ de crédits jeu; bonus sur des créneaux définis.\n\n<\/li>\n\t    <li>• \nPacks “dîner + jeu” : avantage 10–30€; formule plus intéressante qu’un achat séparé.\n<\/li>\n\t    <li>• \nTirages saisonniers : lots 200–2 000€ ou cadeaux; participation via coupons\/conditions d’activité.\n<\/li>\n\t    <li>• \nSemaines thématiques : chances supplémentaires \/ cadeaux; focus sur certains jeux avec animation dédiée.\n<\/li>\n\t    <li>• \nSoirées divertissement : -10–30% sur certains formats; prix spéciaux selon calendrier et réservation.\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nJeux phares du Casino Barrière Trouville : machines, roulette et blackjack\n<\/h3>\n\n<p>\nL’offre de jeux s’organise le plus souvent autour de trois usages : sessions rapides aux machines, “grand classique” aux tables et zone électronique moderne. Les machines à sous séduisent par leur simplicité, leur rythme et la diversité des thèmes, sans oublier la possibilité de jackpots sur certains appareils. Les tables, elles, attirent pour l’ambiance : croupier, rituels de mise et véritable sensation de casino, particulièrement le soir. Les versions électroniques de roulette et de blackjack offrent un tempo plus rapide et une prise en main immédiate, tout en conservant l’essentiel des règles.\n\n<\/p>\n<br>\n<p>\nLa roulette reste l’un des jeux les plus emblématiques grâce à son mélange de simplicité et de suspense. Le blackjack plaît pour sa dimension de décisions et l’idée qu’une stratégie de base peut structurer le jeu. L’Ultimate Poker convient à ceux qui aiment la logique des combinaisons mais souhaitent un format plus direct. “La Boule” apporte une touche traditionnelle et un rythme différent, souvent apprécié pour varier. Au final, l’ensemble permet de composer une soirée à la carte : démarrer simple, monter en intensité, puis revenir à un jeu rapide.\n\n<\/p>\n<br>\n\n\n <ul>\n            <li>• \nMachines à sous: \n\nSpins rapides, thèmes variés, jackpots possibles selon machines.\n\n\n\n<\/li>\n            <li>• \nRoulette anglaise: Jeu iconique, mises sur numéros\/secteurs, suspense à chaque lancer.\n<\/li>\n            <li>• \nRoulette anglaise électronique: Rythme accéléré, interface écran, idéal pour jouer court.\n<\/li>\n            <li>• \nBlackjack: tirer\/tenir, stratégie de base utile.\n<\/li>\n\t    <li>• \nBlackjack électronique: Même logique, plus rapide, sans attente de table.\n<\/li>\n\t    <li>• \nUltimate Poker: Mécanique poker simplifiée, axée sur les combinaisons.\n<\/li>\n\t    <li>• \nLa Boule: Jeu traditionnel, ambiance différente, bon pour varier.\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMises au Casino Barrière Trouville : minimums et maximums par jeu\n<\/h3>\n\n<p> \nConnaître les mises minimales et maximales permet de gérer son budget et de choisir un style de jeu adapté. Les écarts sont importants : les machines démarrent très bas, tandis que les tables live demandent souvent une mise d’entrée plus élevée. Les jeux électroniques se situent généralement entre les deux et conviennent à ceux qui veulent roulette ou blackjack avec un seuil accessible. Le tableau ci‑dessous propose des repères pratiques pour comparer rapidement.\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#b28b27; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Jeu <\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Mise minimale<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Mise maximale<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Machines à sous<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,01€<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">10€ <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette électronique<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">1€<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">3€<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack électronique<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5€ <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">10€<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette anglaise (live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2,50€<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> 200€<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack (live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">10€<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">200€<\/td>\n                <\/tr>\n             <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ultimate Poker<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5€<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">200€<\/td>\n                <\/tr>\n             <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">La Boule <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2,50€<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">10€<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nAnimations au Casino Barrière Trouville : spectacles, soirées et ambiance club\n<\/h3>\n\n<p>\nLa dimension événementielle du casino n’est pas un simple bonus : c’est souvent une raison à part entière de venir, même avec un jeu modéré. Beaucoup construisent leur sortie comme une “soirée complète” : dîner, passage en salle de jeux, puis animation. Le rythme change au fil de la journée : plus calme en journée, plus vivant à l’approche de la nuit. Cette montée en intensité plaît à ceux qui recherchent une expérience, pas seulement une partie.\n\n<\/p>\n<br>\n\n\n<p>\nLes formats réguliers mettent souvent en avant le dîner‑spectacle et des soirées thématiques, où scène, musique, animation et convivialité se répondent. Le public apprécie la dimension “programmée” : on sait qu’il y a un contenu, une ambiance et un fil conducteur. À certaines dates, des événements spéciaux apparaissent : fêtes saisonnières, week‑ends à thème, combinaisons “divertissement + jeu”. Le lieu devient alors une option naturelle pour célébrer un anniversaire, réunir des amis ou organiser une sortie de groupe.\n\n<\/p>\n<br>\n<p>\nL’aspect nocturne et festif renforce l’attrait : après le jeu, beaucoup souhaitent une ambiance plus dansante et plus énergique. Les soirées type DJ, bar et piste créent cette transition vers un esprit club. Pour le visiteur, l’avantage est clair : moins de déplacements, plus de fluidité, tout au même endroit. C’est un format apprécié quand on veut multiplier les moments forts sans compliquer l’organisation.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nListe des divertissements \n<\/h4>\n\n <ul>\n            <li>• \nDîners‑spectacles — scène, artistes\/animateur, repas intégré au programme.\n\n<\/li>\n            <li>• \nSoirées thématiques — musique, codes visuels, parfois dress‑code.\n\n<\/li>\n            <li>• \nAnimations & tirages — événements avec lots selon conditions.\n\n<\/li>\n            <li>• \nSoirées DJ & danse — ambiance club après la partie de jeux.\n\n<\/li>\n\t    <li>• \nTemps forts saisonniers — fêtes, soirées spéciales, programmation élargie.\n\n<\/li>\n\t    <li>• \nÉvénements privés — espaces pour anniversaires, groupes, formats corporate.\n\n\n<\/li>\n\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBars, restaurant et détente au Casino Barrière Trouville : pauses gourmandes\n<\/h3>\n\n<p>\nSe détendre au casino, c’est savoir alterner sensations et confort, et la restauration joue ici un rôle central. Beaucoup viennent pour une soirée complète, où l’on savoure autant l’ambiance que le jeu. Un restaurant bien placé permet de ralentir, d’échanger et de reprendre de l’énergie, surtout si l’on reste plusieurs heures.\n\n<\/p>\n<br>\n\n\n<p>\nLes bars répondent généralement à deux besoins : un format rapide (verre, snack) proche des jeux, et une version plus lounge pour s’installer et prolonger la conversation. L’intérêt est la continuité : on ne casse pas le rythme de la soirée en changeant d’adresse. Aux beaux jours, l’idée de profiter d’un moment à l’extérieur renforce l’esprit “sortie balnéaire”, puis l’on revient jouer avec une énergie renouvelée.\n\n<\/p>\n<br>\n<p>\nPour l’hébergement, l’établissement est surtout pensé comme une destination de soirée, et la nuit se prévoit plutôt dans les hôtels à proximité. Cela laisse une grande liberté : option cosy pour une nuit, ou choix plus premium avec confort et services additionnels. La sortie devient alors un parcours simple : hôtel, promenade, dîner, casino, animation.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLieux de détente\n<\/h4>\n\n <ul>\n            <li>• \nLa Villatara (restaurant\/brasserie) — cuisine conviviale, idéal “dîner + casino”.\n\n<\/li>\n            <li>• \nCafé des Sports (bar\/brasserie) — boissons, encas, ambiance dynamique près des jeux.\n\n<\/li>\n            <li>• \nBar lounge (format soirée) — atmosphère plus posée pour cocktails et pause.\n\n<\/li>\n            <li>• \nTerrasse (en saison) — respiration extérieure entre deux sessions.\n\n<\/li>\n\t    <li>• \nHôtels à proximité — solutions variées pour prolonger la nuit après la sortie.\n\n\n<\/li>\n        <\/ul><br>\n\n\n\n\n"
+            }
+        },
+        "faq": {
+            "title": "FAQ",
+            "items": [
+                {
+                    "title": " Peut‑on venir seulement visiter sans jouer ?",
+                    "answer": "Généralement oui, si vous respectez l’âge minimum, la pièce d’identité et la tenue demandée. Les règles s’appliquent même en simple visite.\n"
+                },
+                {
+                    "title": "Peut‑on reconvertir ses jetons à tout moment ?",
+                    "answer": "En général oui, via la caisse selon la procédure standard. Pour les montants importants, des contrôles supplémentaires peuvent s’appliquer.\n"
+                },
+                {
+                    "title": "Comment fonctionne la sécurité ?",
+                    "answer": "Vidéo‑surveillance, contrôle d’entrée et règles strictes assurent la sécurité et l’intégrité des jeux. C’est un standard du secteur.\n"
+                },
+                {
+                    "title": "Paiement carte au bar\/restaurant : possible ?",
+                    "answer": "Dans la majorité des cas, oui, notamment avec les cartes courantes. Des limites ou contraintes techniques ponctuelles peuvent exister.\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1322",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino Barrière Trouville"
+        }
+    },
+    "langs": [
+        {
+            "code": "fr-FR",
+            "name": "Французский",
+            "isDefault": true
+        }
+    ]
+}

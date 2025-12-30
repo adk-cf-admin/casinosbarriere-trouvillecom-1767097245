@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casinosbarriere-trouville.com/
+Sitemap: https://casinosbarriere-trouville.com/sitemap.xml

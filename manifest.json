@@ -1,0 +1,19 @@
+{
+  "name": "Casino Barrière Trouville",
+  "short_name": "Casino Barrière Trouville",
+  "theme_color": "",
+  "background_color": "#1B1B1A",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1767091924-favicon-32x32-19.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
